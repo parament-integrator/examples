@@ -1,6 +1,6 @@
 # Example Jupyter notebooks for parament
 
-Try them out in your browser! Simply open them, and click the 'Open in Colab' button.
+Try them out in your browser! Simply follow one of the links below, and then click the 'Open in Colab' button.
 
 - **[`Parament_colab_test.ipynb`](Parament_colab_test.ipynb)**
   
