@@ -10,6 +10,6 @@ Try them out in your browser! Simply open them, and click the 'Open in Colab' bu
   
   Demo reproducing the convergence plot from our paper.
   
-- **[`qutip_bloch.ipynb`](Parament_colab_test.ipynb)**
+- **[`qutip_bloch.ipynb`](qutip_bloch.ipynb)**
   
   Demo of using Parament with qutip.
